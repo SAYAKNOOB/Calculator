@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+html{
+     height: 100%;
+     width: 100%;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button{
+    width: 60px;
+    font-size: 20px;
+    padding: 15px;
+    margin: 0px 3px;
+    border: 2px salmon;
+    border-radius: 9px;
+    cursor: auto;
+    padding: 10px;
+    background-color: rgb(200, 20, 20);
+}
+.display{
+    font: 'orbitron', sans-serif;
+    background-color: aquamarine;
+}
+#btn{
+    background-color: chartreuse;
+}
+.row{
+    margin: 7px 0px;
+}
+.row input{
+    width: 270px;
+    font-size: 35px;
+    padding: 10px 0px;
+    margin: 0;
+    border: 2px blueviolet;
+    border-radius: 9px;
+}
